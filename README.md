@@ -1,4 +1,4 @@
-# image-lazy-loader
+# Image Lazy Loader
 Image lazy-loading for the web
 
 ``` html
