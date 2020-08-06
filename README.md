@@ -6,5 +6,7 @@ Image lazy-loading for the web
 ```
 
 ``` javascript
+<script>
 createImageLoader();
+</script>
 ```
